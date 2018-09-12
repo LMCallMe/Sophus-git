@@ -1,10 +1,10 @@
-# Maintainer: lmcallme <l.m.zhongguo@gmail.com>
+# Maintainer: Li Meng <lm.91@qq.com>
 pkgname=Sophus-git
 pkgver=v0.9.5.r73.13fb328r275.13fb328
 pkgrel=1
 pkgdesc="C++ implementation of Lie Groups using Eigen."
 arch=(any)
-url="https://github.com/lmcallme/Sophus-git.git"
+url="https://github.com/strasdat/Sophus.git"
 license=('GPL')
 groups=()
 depends=(eigen)
